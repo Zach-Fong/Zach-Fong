@@ -8,8 +8,8 @@ fix.
 
 https://github.com/user-attachments/assets/2ab747be-00c2-46d8-8cce-ac8348f8064a
 
-I'm currently a Software Engineer building the Go services for creating, managing, and redeeming gifts on a new gifting
-platform driving millions of dollars in redemptions. I built rollback systems so multi-service transactions stay consistent when a step
+I'm currently a Software Engineer building a new gifting platform in Go, which drives millions of dollars in
+redemptions. I built rollback systems so multi-service transactions stay consistent when a step
 fails, and shipped self-serve gift analytics to 2K+ admins.
 
 **Before that**
