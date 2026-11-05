@@ -16,7 +16,7 @@ fails, and shipped self-serve gift analytics to 2K+ admins.
 
 - **Ezee Assist** (Google for Startups Accelerator)**:** I owned and built a client-facing AI feature that clustered our AI assistant's failed answers,
   cutting them by about 25%.
-- **Sony Pictures Imageworks:** I made search 25x faster in [CueWeb](https://github.com/AcademySoftwareFoundation/OpenCue),
+- **Sony Pictures Imageworks:** Cut search time from 5 to 0.2 seconds in [CueWeb](https://github.com/AcademySoftwareFoundation/OpenCue),
   the open-source app artists use to manage render jobs.
 - **RBC:** I co-invented a [patent-pending](https://patents.google.com/patent/US20250069731A1/en) AI framework that cut
   doctors' manual billing work by 67%.
